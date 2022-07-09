@@ -9,3 +9,5 @@ Rest Repositories
 Validation
 MySQLDriver
 Lombok
+Angular CLI 
+Node js
